@@ -2,6 +2,9 @@ RENCANA KONTEN WPU
 -Javascript
   *ES 6
   *Framework Javascript
+-Animasi
+ *Tayo
+-PHP
   *React JS
 -Animasi
   * Bus Tayo
@@ -9,3 +12,4 @@ RENCANA KONTEN WPU
  * Laravel
 -Vlogs
 -Python
+
