@@ -3,5 +3,8 @@ RENCANA KONTEN WPU
   *ES 6
   *Framework Javascript
 -Animasi
--PHP
+  * Bus Tayo
+-PHP Framework
+ * Laravel
 -Vlogs
+-Python
