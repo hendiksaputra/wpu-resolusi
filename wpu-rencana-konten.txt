@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 -Javascript
   *ES 6
   *Framework Javascript
+  *React JS
 -Animasi
   * Bus Tayo
 -PHP Framework
